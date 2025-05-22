@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/25ad692488a34e6b84cfea894b2995de/artifacts
+deleted_time: 1747812106119
+end_time: 1747752713199
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 25ad692488a34e6b84cfea894b2995de
+run_name: abundant-turtle-304
+run_uuid: 25ad692488a34e6b84cfea894b2995de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747752710238
+status: 3
+tags: []
+user_id: Sarvjeet jha

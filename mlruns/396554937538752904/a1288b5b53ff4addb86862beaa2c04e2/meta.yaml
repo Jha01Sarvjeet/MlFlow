@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/a1288b5b53ff4addb86862beaa2c04e2/artifacts
+deleted_time: 1747812106136
+end_time: 1747748091957
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: a1288b5b53ff4addb86862beaa2c04e2
+run_name: angry-gnu-515
+run_uuid: a1288b5b53ff4addb86862beaa2c04e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747748088897
+status: 3
+tags: []
+user_id: Sarvjeet jha

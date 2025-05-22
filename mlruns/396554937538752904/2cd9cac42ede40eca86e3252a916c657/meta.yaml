@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/2cd9cac42ede40eca86e3252a916c657/artifacts
+deleted_time: 1747812106094
+end_time: 1747811618306
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 2cd9cac42ede40eca86e3252a916c657
+run_name: ambitious-jay-928
+run_uuid: 2cd9cac42ede40eca86e3252a916c657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747811615003
+status: 3
+tags: []
+user_id: Sarvjeet jha

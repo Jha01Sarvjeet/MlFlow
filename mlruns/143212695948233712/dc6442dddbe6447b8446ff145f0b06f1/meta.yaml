@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/143212695948233712/dc6442dddbe6447b8446ff145f0b06f1/artifacts
+end_time: 1747739602616
+entry_point_name: ''
+experiment_id: '143212695948233712'
+lifecycle_stage: active
+run_id: dc6442dddbe6447b8446ff145f0b06f1
+run_name: sneaky-robin-817
+run_uuid: dc6442dddbe6447b8446ff145f0b06f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747739602547
+status: 3
+tags: []
+user_id: Sarvjeet jha

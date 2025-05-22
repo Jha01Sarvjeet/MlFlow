@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/db297ce7f9bd49fba84961455a65e39b/artifacts
+deleted_time: 1747812106130
+end_time: 1747752572772
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: db297ce7f9bd49fba84961455a65e39b
+run_name: valuable-fawn-655
+run_uuid: db297ce7f9bd49fba84961455a65e39b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747752569854
+status: 3
+tags: []
+user_id: Sarvjeet jha

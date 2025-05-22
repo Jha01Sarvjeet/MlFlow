@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/143212695948233712/a425d2dc528b44c6baa56e3a4003a8fb/artifacts
+end_time: 1747739036697
+entry_point_name: ''
+experiment_id: '143212695948233712'
+lifecycle_stage: active
+run_id: a425d2dc528b44c6baa56e3a4003a8fb
+run_name: bright-squirrel-730
+run_uuid: a425d2dc528b44c6baa56e3a4003a8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747739036621
+status: 3
+tags: []
+user_id: Sarvjeet jha

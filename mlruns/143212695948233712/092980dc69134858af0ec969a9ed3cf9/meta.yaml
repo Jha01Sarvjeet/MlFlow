@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/143212695948233712/092980dc69134858af0ec969a9ed3cf9/artifacts
+deleted_time: 1747737268685
+end_time: 1747736457516
+entry_point_name: ''
+experiment_id: '143212695948233712'
+lifecycle_stage: deleted
+run_id: 092980dc69134858af0ec969a9ed3cf9
+run_name: calm-finch-834
+run_uuid: 092980dc69134858af0ec969a9ed3cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747736457441
+status: 3
+tags: []
+user_id: Sarvjeet jha

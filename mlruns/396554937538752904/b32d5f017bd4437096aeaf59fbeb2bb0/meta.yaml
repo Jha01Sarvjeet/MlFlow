@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/b32d5f017bd4437096aeaf59fbeb2bb0/artifacts
+deleted_time: 1747812106119
+end_time: 1747752671456
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: b32d5f017bd4437096aeaf59fbeb2bb0
+run_name: powerful-bird-137
+run_uuid: b32d5f017bd4437096aeaf59fbeb2bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747752668561
+status: 3
+tags: []
+user_id: Sarvjeet jha

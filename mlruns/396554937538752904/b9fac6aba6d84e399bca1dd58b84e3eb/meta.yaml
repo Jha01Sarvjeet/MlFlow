@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/b9fac6aba6d84e399bca1dd58b84e3eb/artifacts
+deleted_time: 1747812106109
+end_time: 1747754230580
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: b9fac6aba6d84e399bca1dd58b84e3eb
+run_name: flawless-cod-748
+run_uuid: b9fac6aba6d84e399bca1dd58b84e3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747752953935
+status: 3
+tags: []
+user_id: Sarvjeet jha

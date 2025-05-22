@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/3085c34777584956a8da0d1dcfbabe7f/artifacts
+deleted_time: 1747812106103
+end_time: 1747754239996
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 3085c34777584956a8da0d1dcfbabe7f
+run_name: secretive-trout-801
+run_uuid: 3085c34777584956a8da0d1dcfbabe7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754237225
+status: 3
+tags: []
+user_id: Sarvjeet jha

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/fd33ab1ca2ce4d0baee72d417ce31739/artifacts
+end_time: 1747812125234
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: active
+run_id: fd33ab1ca2ce4d0baee72d417ce31739
+run_name: hilarious-fly-945
+run_uuid: fd33ab1ca2ce4d0baee72d417ce31739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747812122143
+status: 3
+tags: []
+user_id: Sarvjeet jha

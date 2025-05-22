@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/143212695948233712/21ea2c9a480e47f5834769ce8625b0c3/artifacts
+deleted_time: 1747737268685
+end_time: 1747736443310
+entry_point_name: ''
+experiment_id: '143212695948233712'
+lifecycle_stage: deleted
+run_id: 21ea2c9a480e47f5834769ce8625b0c3
+run_name: nosy-kit-828
+run_uuid: 21ea2c9a480e47f5834769ce8625b0c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747736443244
+status: 3
+tags: []
+user_id: Sarvjeet jha

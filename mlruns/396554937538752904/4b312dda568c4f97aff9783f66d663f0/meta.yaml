@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/4b312dda568c4f97aff9783f66d663f0/artifacts
+deleted_time: 1747812106078
+end_time: 1747811621443
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 4b312dda568c4f97aff9783f66d663f0
+run_name: capricious-cod-193
+run_uuid: 4b312dda568c4f97aff9783f66d663f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747811618352
+status: 3
+tags: []
+user_id: Sarvjeet jha

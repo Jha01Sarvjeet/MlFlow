@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/0ef36bf31cc74e25aa75f2c4279695c9/artifacts
+deleted_time: 1747812106097
+end_time: 1747811611078
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 0ef36bf31cc74e25aa75f2c4279695c9
+run_name: orderly-eel-991
+run_uuid: 0ef36bf31cc74e25aa75f2c4279695c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747811606805
+status: 3
+tags: []
+user_id: Sarvjeet jha

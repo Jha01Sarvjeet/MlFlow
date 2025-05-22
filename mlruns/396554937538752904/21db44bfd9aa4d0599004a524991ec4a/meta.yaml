@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/21db44bfd9aa4d0599004a524991ec4a/artifacts
+deleted_time: 1747812106078
+end_time: 1747811614428
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 21db44bfd9aa4d0599004a524991ec4a
+run_name: burly-bird-854
+run_uuid: 21db44bfd9aa4d0599004a524991ec4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747811611180
+status: 3
+tags: []
+user_id: Sarvjeet jha

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/10f2ce9fea8b407580f9ec3d828b6d6c/artifacts
+deleted_time: 1747812106103
+end_time: null
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 10f2ce9fea8b407580f9ec3d828b6d6c
+run_name: gentle-shrew-871
+run_uuid: 10f2ce9fea8b407580f9ec3d828b6d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747811599890
+status: 1
+tags: []
+user_id: Sarvjeet jha

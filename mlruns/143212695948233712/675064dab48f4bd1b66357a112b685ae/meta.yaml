@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/143212695948233712/675064dab48f4bd1b66357a112b685ae/artifacts
+deleted_time: 1747737268685
+end_time: 1747736466529
+entry_point_name: ''
+experiment_id: '143212695948233712'
+lifecycle_stage: deleted
+run_id: 675064dab48f4bd1b66357a112b685ae
+run_name: rumbling-shad-452
+run_uuid: 675064dab48f4bd1b66357a112b685ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747736466470
+status: 3
+tags: []
+user_id: Sarvjeet jha

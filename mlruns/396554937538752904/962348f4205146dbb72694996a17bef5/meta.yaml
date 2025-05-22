@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/962348f4205146dbb72694996a17bef5/artifacts
+deleted_time: 1747812106111
+end_time: 1747752949907
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 962348f4205146dbb72694996a17bef5
+run_name: valuable-dog-961
+run_uuid: 962348f4205146dbb72694996a17bef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747752947018
+status: 3
+tags: []
+user_id: Sarvjeet jha

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/eb4f16dbf98c4734b99dd67ecc5ab52c/artifacts
+deleted_time: 1747812106136
+end_time: null
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: eb4f16dbf98c4734b99dd67ecc5ab52c
+run_name: enchanting-worm-878
+run_uuid: eb4f16dbf98c4734b99dd67ecc5ab52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747748092595
+status: 1
+tags: []
+user_id: Sarvjeet jha

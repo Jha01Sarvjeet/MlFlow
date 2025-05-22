@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/1a8c7dadd86340d69bf2b4fe3f62fcf9/artifacts
+deleted_time: 1747812106103
+end_time: 1747754236342
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 1a8c7dadd86340d69bf2b4fe3f62fcf9
+run_name: fun-frog-894
+run_uuid: 1a8c7dadd86340d69bf2b4fe3f62fcf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754233548
+status: 3
+tags: []
+user_id: Sarvjeet jha

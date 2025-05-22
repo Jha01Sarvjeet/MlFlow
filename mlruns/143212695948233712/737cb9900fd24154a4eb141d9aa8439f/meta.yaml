@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/143212695948233712/737cb9900fd24154a4eb141d9aa8439f/artifacts
+deleted_time: 1747737268685
+end_time: 1747737235079
+entry_point_name: ''
+experiment_id: '143212695948233712'
+lifecycle_stage: deleted
+run_id: 737cb9900fd24154a4eb141d9aa8439f
+run_name: youthful-smelt-497
+run_uuid: 737cb9900fd24154a4eb141d9aa8439f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747737235011
+status: 3
+tags: []
+user_id: Sarvjeet jha

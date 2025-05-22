@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/e75993fd3f614bd4b481de62f90e6b7d/artifacts
+deleted_time: 1747812106111
+end_time: 1747752953001
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: e75993fd3f614bd4b481de62f90e6b7d
+run_name: sneaky-lamb-518
+run_uuid: e75993fd3f614bd4b481de62f90e6b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747752949997
+status: 3
+tags: []
+user_id: Sarvjeet jha

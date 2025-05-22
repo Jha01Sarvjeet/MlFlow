@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/65204f73e30647d08944bbbab7c51150/artifacts
+deleted_time: 1747812106119
+end_time: 1747752946951
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 65204f73e30647d08944bbbab7c51150
+run_name: sincere-swan-822
+run_uuid: 65204f73e30647d08944bbbab7c51150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747752713774
+status: 3
+tags: []
+user_id: Sarvjeet jha

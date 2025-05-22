@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/396554937538752904/7653a8a2b4ce4c5abe6f53d7ee7a356e/artifacts
+deleted_time: 1747812106111
+end_time: 1747754233458
+entry_point_name: ''
+experiment_id: '396554937538752904'
+lifecycle_stage: deleted
+run_id: 7653a8a2b4ce4c5abe6f53d7ee7a356e
+run_name: worried-stoat-270
+run_uuid: 7653a8a2b4ce4c5abe6f53d7ee7a356e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747754230626
+status: 3
+tags: []
+user_id: Sarvjeet jha
