@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749275526994
+current_stage: None
+description: ''
+last_updated_timestamp: 1749275526994
+name: final model
+run_id: e7ffaa981aea4bfba3a864a90ddbd418
+run_link: ''
+source: file:///e:/Father%27s_Document/code/MlOps/MlFlow/3_ANN_With_Mlflow/mlruns/843999747342678904/e7ffaa981aea4bfba3a864a90ddbd418/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///e:/Father%27s_Document/code/MlOps/MlFlow/3_ANN_With_Mlflow/mlruns/843999747342678904/e7ffaa981aea4bfba3a864a90ddbd418/artifacts/model
+user_id: null
+version: 1
